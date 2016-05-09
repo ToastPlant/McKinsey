@@ -1,6 +1,22 @@
 ﻿{
     EPVersionNumber = 1602232159;
     Schedules =     (
+                {
+            ChangeCount = 4;
+            Name = "Schedule 1";
+            Schedule =             (
+                                {
+                    Num = 1;
+                    Run = YES;
+                    Script = "Master.script";
+                },
+                                {
+                    Num = 3;
+                    Run = YES;
+                    Script = "test1.script";
+                }
+            );
+        }
     );
     ScriptMetaData =     {
     };

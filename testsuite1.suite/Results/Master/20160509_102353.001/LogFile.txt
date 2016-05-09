@@ -1,0 +1,6 @@
+﻿2016-05-09 10:23:53.002 +0100	START		Running Master.script
+2016-05-09 10:23:53.133 +0100	Log		Connection info: 	1	on_master	Master.script
+2016-05-09 10:23:53.136 +0100	Log		Created by Joost	3	on_master	Master.script
+2016-05-09 10:23:53.139 +0100	Log		for TCS	5	on_master	Master.script
+2016-05-09 10:23:53.194 +0100	EndTestCase		(Duration:"0.188041", Errors:"0", Exceptions:"0", StartTime:"2016-05-09 10:23:53 +0100", Successes:"1", TestCase:"Master.script", Warnings:"0")
+2016-05-09 10:23:53.198 +0100	SUCCESS		Execution Time 0:00:00 Master.script

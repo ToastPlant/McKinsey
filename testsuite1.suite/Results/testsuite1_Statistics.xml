@@ -1,3 +1,19 @@
 ﻿<?xml version="1.0"?>
 <statistics>
+ <script name="test1">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-05-09 10:23:53 +0100</FirstRun>
+  <LastRun>2016-05-09 10:23:53 +0100</LastRun>
+  <TotalTimeOnSuccess>0.140148</TotalTimeOnSuccess>
+ </script>
+ <script name="Master">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-05-09 10:23:53 +0100</FirstRun>
+  <LastRun>2016-05-09 10:23:53 +0100</LastRun>
+  <TotalTimeOnSuccess>0.190772</TotalTimeOnSuccess>
+ </script>
 </statistics>
