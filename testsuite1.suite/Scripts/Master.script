@@ -1,3 +1,5 @@
 ﻿log "Connection info:" && Connectioninfo()
 
 Log "Created by Joost"
+
+log "for TCS"
