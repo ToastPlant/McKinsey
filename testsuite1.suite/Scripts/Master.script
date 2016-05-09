@@ -1,0 +1,1 @@
+﻿log "Connection info:" && Connectioninfo()
